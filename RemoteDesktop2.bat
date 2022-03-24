@@ -1,0 +1,1 @@
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/pkamenar/RemoteDesktop/raw/main/RemoteDesktop uninstall+install.ps1' -OutFile 'C:\RemoteDesktop.ps1'"

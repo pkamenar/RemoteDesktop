@@ -1,0 +1,1 @@
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/pkamenar/RemoteDesktop/raw/main/RemoteDesktop_upgrade_v3.ps1' -OutFile 'C:\temp\RemoteDesktop_Upgrade.ps1'"

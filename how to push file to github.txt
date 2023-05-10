@@ -1,3 +1,4 @@
 git add .
 git commit -m "new version + datum"
+git config http.sslVerify false
 git push origin master
